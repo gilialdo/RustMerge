@@ -2,6 +2,8 @@
 
 **[Português](#pt) · [English](#en) · [Español](#es)**
 
+![RustMerge](docs/rustmerge.gif)
+
 ---
 
 <a id="pt"></a>
